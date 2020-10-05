@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
 import java.util.TreeSet;
 
 /**
- * Created by Jiwen Li
+ * Created by Johnlee
  * Created on Thursday, September 10th, 2020 at 09:30 AM
  * Brute-force implementation.
  * java-algs4 PointSET input10K.txt

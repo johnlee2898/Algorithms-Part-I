@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 /**
- * Created by Jiwen Li
+ * Created by Johnlee
  * Created on Thursday, September 10th, 2020 at 09:30 AM
  * 2d-tree implementation.
  * java-algs4 KdTree input10.txt

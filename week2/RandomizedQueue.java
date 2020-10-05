@@ -1,5 +1,5 @@
 /* *****************************************************************************
- *  Name:              Jiwen Li
+ *  Name:              Johnlee
  *  Coursera User ID:  123456
  *  Last modified:     1/1/2019
  **************************************************************************** */
@@ -10,7 +10,7 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 /**
- * Created by Jiwen Li
+ * Created by Johnlee
  * Completed on Saturday, August 16th, 2020
  */
 

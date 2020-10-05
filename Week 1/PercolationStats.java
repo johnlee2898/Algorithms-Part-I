@@ -1,5 +1,5 @@
 /* *****************************************************************************
- *  Name:              Jiwen Li
+ *  Name:              Johnlee
  *  Coursera User ID:  123456
  *  Last modified:     1/1/2019
  **************************************************************************** */
@@ -9,7 +9,7 @@ import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
 /**
- *  Created by Jiwen Li
+ *  Created by Johnlee
  *  Completed on Saturday, August 15th, 2020 at 09:24 AM morning
  */
 
